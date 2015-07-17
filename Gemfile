@@ -28,6 +28,8 @@ gem 'spring',        group: :development
 
 gem 'bootstrap-sass', '~> 3.3.5'
 
+gem 'instagram'
+
 
 gem 'rails_12factor', group: :production
 gem 'pg', group: :production
