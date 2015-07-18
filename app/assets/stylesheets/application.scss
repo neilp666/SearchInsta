@@ -16,6 +16,12 @@
 @import "bootstrap";
 
 
+body {
+  background-color: #FAFAF5;
+  }
+
+
+
 .jumbotron {
 
   text-align: center;
@@ -37,3 +43,24 @@ p {
 
 
 }
+
+
+.profile-image {
+        position: absolute;
+        border-radius: 20px;
+        left: 25px;
+        bottom: 30px;
+      }
+
+.caption
+
+{
+ text-align: center;
+ font-family: 'Pacifico', 'Helvetica Neue', Helvetica;
+}
+
+
+
+
+
+
